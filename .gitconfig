@@ -1,0 +1,11 @@
+[user]
+	name = jd1705
+	email = soulbusterjd17@gmail.com
+[commit]
+	template = /home/jd1705/.git-commit-template.txt
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential

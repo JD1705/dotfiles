@@ -1,0 +1,10 @@
+[Tipo]: [Descripcion breve] (opcional: #Issue)
+
+[Descripcion detallada si es necesaria]
+
+[Cambios realizados]
+- Cambio 1
+- Cambio 2
+- Cambio 3
+
+[Notas adicionales]
