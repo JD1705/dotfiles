@@ -1,0 +1,41 @@
+2026/10/06-18:08:05.943 b5dd Reusing MANIFEST /home/jd1705/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/10/06-18:08:06.065 b5dd Recovering log #3203
+2026/10/06-18:08:06.079 b5dd Level-0 table #3206: started
+2026/10/06-18:08:06.109 b5dd Level-0 table #3206: 161800 bytes OK
+2026/10/06-18:08:06.117 b5dd Delete type=0 #3203
+2026/10/06-18:14:46.517 b5dc Level-0 table #3209: started
+2026/10/06-18:14:46.547 b5dc Level-0 table #3209: 195574 bytes OK
+2026/10/06-18:14:46.551 b5dc Delete type=0 #3207
+2026/10/06-18:14:46.551 b5dc Compacting 4@0 + 1@1 files
+2026/10/06-18:14:46.602 b5dc Generated table #3210@0: 122 keys, 212711 bytes
+2026/10/06-18:14:46.602 b5dc Compacted 4@0 + 1@1 files => 212711 bytes
+2026/10/06-18:14:46.614 b5dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/06-18:14:46.615 b5dc Delete type=2 #3206
+2026/10/06-18:14:46.615 b5dc Delete type=2 #3202
+2026/10/06-18:14:46.616 b5dc Delete type=2 #3200
+2026/10/06-18:14:46.616 b5dc Delete type=2 #3204
+2026/10/06-18:14:46.616 b5dc Delete type=2 #3209
+2026/10/06-18:14:57.851 b5dc Level-0 table #3212: started
+2026/10/06-18:14:57.862 b5dc Level-0 table #3212: 163799 bytes OK
+2026/10/06-18:14:57.865 b5dc Delete type=0 #3208
+2026/10/06-18:19:25.433 b5dc Level-0 table #3214: started
+2026/10/06-18:19:25.448 b5dc Level-0 table #3214: 166174 bytes OK
+2026/10/06-18:19:25.451 b5dc Delete type=0 #3211
+2026/10/06-18:47:39.629 b5bc Level-0 table #3216: started
+2026/10/06-18:47:39.770 b5bc Level-0 table #3216: 162542 bytes OK
+2026/10/06-18:47:39.781 b5bc Delete type=0 #3213
+2026/10/06-19:56:56.683 b5dc Level-0 table #3218: started
+2026/10/06-19:56:56.695 b5dc Level-0 table #3218: 162978 bytes OK
+2026/10/06-19:56:56.698 b5dc Delete type=0 #3215
+2026/10/06-19:56:56.699 b5dc Compacting 4@0 + 1@1 files
+2026/10/06-19:56:56.730 b5dc Generated table #3219@0: 122 keys, 213565 bytes
+2026/10/06-19:56:56.731 b5dc Compacted 4@0 + 1@1 files => 213565 bytes
+2026/10/06-19:56:56.733 b5dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/06-19:56:56.734 b5dc Delete type=2 #3218
+2026/10/06-19:56:56.734 b5dc Delete type=2 #3214
+2026/10/06-19:56:56.734 b5dc Delete type=2 #3216
+2026/10/06-19:56:56.734 b5dc Delete type=2 #3212
+2026/10/06-19:56:56.734 b5dc Delete type=2 #3210
+2026/10/06-20:00:07.010 b5bc Level-0 table #3221: started
+2026/10/06-20:00:07.019 b5bc Level-0 table #3221: 162857 bytes OK
+2026/10/06-20:00:07.022 b5bc Delete type=0 #3217

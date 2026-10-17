@@ -1,0 +1,84 @@
+Mono path[0] = '/home/jd1705/.local/share/Steam/steamapps/common/Muck/Muck_Data/Managed'
+Mono config path = '/home/jd1705/.local/share/Steam/steamapps/common/Muck/Muck_Data/MonoBleedingEdge/etc'
+Preloaded 'libsteam_api.so'
+Display 0 'VGA-1': 1360x768 (primary device).
+Unable to load player prefs
+Desktop is 1360 x 768 @ 60 Hz
+Unable to find a supported OpenGL core profile
+Failed to create valid graphics context: please ensure you meet the minimum requirements
+E.g. OpenGL core profile 3.2 or later for OpenGL Core renderer
+[Vulkan init] extensions: count=24
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_headless_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_EXT_surface_maintenance1, enabled=0
+[Vulkan init] extensions: name=VK_EXT_swapchain_colorspace, enabled=1
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+[Vulkan init] extensions: name=VK_LUNARG_direct_driver_loading, enabled=0
+Vulkan detection: 2
+Initialize engine version: 2019.4.19f1 (ca5b14067cec)
+[Subsystems] Discovering subsystems at path /home/jd1705/.local/share/Steam/steamapps/common/Muck/Muck_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Unable to find a supported OpenGL core profile
+Unable to find a supported OpenGL core profile
+GfxDevice: creating device client; threaded=1
+[Vulkan init] extensions: count=24
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_headless_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_EXT_surface_maintenance1, enabled=0
+[Vulkan init] extensions: name=VK_EXT_swapchain_colorspace, enabled=1
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+[Vulkan init] extensions: name=VK_LUNARG_direct_driver_loading, enabled=0
+[Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=(nil)
+[Vulkan init] Physical Device 0x79a8070 [0]: "llvmpipe (LLVM 20.1.2, 128 bits)" deviceType=4 vendorID=10005 deviceID=0
+[Vulkan init] Selected physical device (nil)
+Caught fatal signal - signo:11 code:1 errno:0 addr:0x10
+Obtained 13 stack frames.
+#0  0x007ff758245330 in __sigaction
+#1  0x007ff6975afdde in vkGetPhysicalDeviceQueueFamilyProperties
+#2  0x007ff758cba0e3 in vk::Initialize()
+#3  0x007ff758cc32f9 in CreateVKGfxDevice()
+#4  0x007ff758c3443e in CreateClientGfxDevice(GfxDeviceRenderer, GfxCreateDeviceFlags)
+#5  0x007ff7590cdc67 in CreateGfxDevice(GfxDeviceRenderer, GfxCreateDeviceFlags)
+#6  0x007ff7590cdff1 in InitializeGfxDevice()
+#7  0x007ff758fb6ce6 in InitializeEngineGraphics(bool)
+#8  0x007ff758fc6e90 in PlayerInitEngineGraphics(bool)
+#9  0x007ff75915f266 in PlayerMain(int, char**)
+#10 0x007ff75822a1ca in __libc_init_first
+#11 0x007ff75822a28b in __libc_start_main
+#12 0x00000000400569 in _start

@@ -1,0 +1,50 @@
+{
+ "Week": "2026-07-26",
+ "LastWeek": "",
+ "X": 0.32830311380266597,
+ "Programs": [
+  {
+   "Program": "cmd/go",
+   "Version": "go1.23.0",
+   "GoVersion": "go1.23.0",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "go/goroot:usr-local-go": 4,
+    "go/invocations": 4,
+    "go/mod-download/flag:json": 1,
+    "go/mode:module": 4,
+    "go/platform/host/linux/major-version:7": 4,
+    "go/platform/host/linux/version:7-0": 4,
+    "go/platform/target/goamd64:v1": 4,
+    "go/platform/target/goarch:amd64": 4,
+    "go/platform/target/goos:linux": 4,
+    "go/subcommand:install": 3,
+    "go/subcommand:mod-download": 1,
+    "go/toolchain/switch-exec": 1
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/go",
+   "Version": "go1.25.12",
+   "GoVersion": "go1.25.12",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "go/goroot:other": 1,
+    "go/invocations": 1,
+    "go/mod-download/flag:json": 1,
+    "go/mode:module": 1,
+    "go/platform/host/linux/major-version:7": 1,
+    "go/platform/host/linux/version:7-0": 1,
+    "go/platform/target/goamd64:v1": 1,
+    "go/platform/target/goarch:amd64": 1,
+    "go/platform/target/goos:linux": 1,
+    "go/subcommand:mod-download": 1
+   },
+   "Stacks": {}
+  }
+ ],
+ "Config": "v0.0.0-0"
+}

@@ -1,0 +1,27 @@
+[global_config]
+  dbus = False
+  borderless = True
+  tab_position = hidden
+  scroll_tabbar = True
+  homogeneous_tabbar = False
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#1a1b26"
+    background_darkness = 0.4
+    font = FiraCode Nerd Font 8.5
+    foreground_color = "#c0caf5"
+    show_titlebar = False
+    scrollbar_position = hidden
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]

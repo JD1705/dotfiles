@@ -1,0 +1,92 @@
+# ~/.config/starship.toml
+#
+# add_newline = false
+#
+# # Definimos el orden y los colores de los módulos para Catppuccin Mocha
+# format = """
+# [░▒▓](#89b4fa)\
+# [ 󰔎 ](bg:#89b4fa fg:#1e1e2e)\
+# [](fg:#89b4fa bg:#313244)\
+# $directory\
+# [](fg:#313244 bg:#cba6f7)\
+# $git_branch\
+# $git_status\
+# [](fg:#cba6f7 bg:#1e1e2e)\
+# \n$character"""
+#
+# [directory]
+# style = "bg:#313244 fg:#cdd6f4"
+# format = "[ $path ]($style)"
+# truncation_length = 3
+#
+# [git_branch]
+# symbol = ""
+# style = "bg:#cba6f7 fg:#1e1e2e"
+# format = "[ $symbol $branch ]($style)"
+#
+# [git_status]
+# style = "bg:#cba6f7 fg:#1e1e2e"
+# format = "[$all_status$ahead_behind]($style)"
+# conflicted = "󰞇 "
+# ahead = "⇡ "
+# behind = "⇣ "
+# diverged = "󰹹 "
+# up_to_date = "󰄬 "
+# untracked = " "
+# stashed = "󰏗 "
+# modified = "󰏫 "
+# staged = "󰐖 "
+# renamed = "󰑕 "
+# deleted = "󰗨 "
+#
+# [character]
+# success_symbol = "[╰─>](bold #a6e3a1)"
+# error_symbol = "[╰─>](bold #f38ba8)"
+
+# ~/.config/starship.toml
+
+add_newline = false
+
+# Flujo de colores Catppuccin Mocha:
+# Icono -> Rosewater (#f5e0dc)
+# Directorio -> Peach (#fab387) sobre Surface0 (#313244)
+# Git -> Lavender (#b4befe) sobre Mantle (#181825)
+format = """
+[░▒▓](#f5e0dc)\
+[ 󰔎 ](bg:#f5e0dc fg:#1e1e2e)\
+[](fg:#f5e0dc bg:#313244)\
+$directory\
+[](fg:#313244 bg:#b4befe)\
+$git_branch\
+$git_status\
+[](fg:#b4befe bg:#181825)\
+\n$character"""
+
+[directory]
+style = "bg:#313244 fg:#fab387"
+format = "[ $path ]($style)"
+truncation_length = 3
+
+[git_branch]
+symbol = ""
+style = "bg:#b4befe fg:#1e1e2e"
+format = "[ $symbol $branch ]($style)"
+
+[git_status]
+style = "bg:#b4befe fg:#1e1e2e"
+format = "[$all_status$ahead_behind]($style)"
+conflicted = "󰞇 "
+ahead = "⇡ "
+behind = "⇣ "
+diverged = "󰹹 "
+up_to_date = "󰄬 "
+untracked = " "
+stashed = "󰏗 "
+modified = "󰏫 "
+staged = "󰐖 "
+renamed = "󰑕 "
+deleted = "󰗨 "
+
+[character]
+success_symbol = "[╰─>](bold #a6e3a1)"
+error_symbol = "[╰─>](bold #f38ba8)"

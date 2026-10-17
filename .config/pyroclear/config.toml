@@ -1,0 +1,9 @@
+[color]
+from = "#fab387"
+to = "#11111b"
+
+[animation]
+fps       = 15
+wind      = 0
+height    = 0
+direction = false

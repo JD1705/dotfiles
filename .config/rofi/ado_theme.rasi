@@ -1,0 +1,54 @@
+* {
+    bg: #1e1e2e;
+    bg-alt: #313244;
+    fg: #cdd6f4;
+    accent: #89b4fa;
+    font: "FiraCode Nerd Font 12";
+
+    background-color: @bg;
+    text-color: @fg;
+}
+
+window {
+    width: 50%;
+    border: 2px;
+    border-color: @accent;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+mainbox {
+    children: [inputbar, listview];
+}
+
+inputbar {
+    children: [prompt, entry];
+    background-color: @bg-alt;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0 0 10px 0;
+}
+
+prompt {
+    background-color: @bg;
+    text-color: @fg;
+    padding: 0 8px;
+    margin: 0 5px 0 0;
+    border-radius: 3px;
+}
+
+listview {
+    lines: 8;
+    columns: 1;
+    fixed-height: true;
+}
+
+element {
+    padding: 3px;
+    border-radius: 4px;
+}
+
+element selected {
+    background-color: @accent;
+    text-color: @bg;
+}

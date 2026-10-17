@@ -1,0 +1,11 @@
+[Unit]
+Description=MPD Discord Rich Presence
+After=network.target mpd.service
+
+[Service]
+ExecStart=/home/jd1705/.cargo/bin/mpd-discord-rpc
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target

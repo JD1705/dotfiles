@@ -1,0 +1,14 @@
+# GIMP user context
+
+(tool "gimp-zoom-tool")
+(paint-info "gimp-paintbrush")
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(mybrush "Standard")
+(pattern "Pine")
+(gradient "Primer plano a fondo (RGB)")
+(palette "Histórico de color")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

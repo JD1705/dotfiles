@@ -1,0 +1,253 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 156
+time: 120.028
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Ado/「千本桜」ver. Ado (Limited Special Track).mp3
+1:Ado/【Ado】 バスケットワーム(Basket Worm) 歌いました【Cover】.mp3
+2:Ado/【Ado】 唱.mp3
+3:Ado/【Ado】 桜日和とタイムマシン with 初音ミク.mp3
+4:Ado/【Ado】 神っぽいな 歌いました.mp3
+5:Ado/【Ado】0.mp3
+6:Ado/【Ado】16ビットガール 歌いました.mp3
+7:Ado/【Ado】Blue Flame cover (원곡：LE SSERAFIM).mp3
+8:Ado/【Ado】DIGNITY.mp3
+9:Ado/【Ado】Episode X.mp3
+10:Ado/【Ado】Fairytale,歌いました.mp3
+11:Ado/【Ado】FREEDOM.mp3
+12:Ado/【Ado】Hello Signals.mp3
+13:Ado/【Ado】Limbo 歌いました.mp3
+14:Ado/【Ado】Love me forever!（Official Audio）.mp3
+15:Ado/【Ado】MAGIC.mp3
+16:Ado/【Ado】MIRROR.mp3
+17:Ado/【Ado】Overdose 歌いました.mp3
+18:Ado/【Ado】Snow Song Show 歌いました.mp3
+19:Ado/【Ado】Sunny Wave 歌いました.mp3
+20:Ado/【Ado】Tot Musica（ウタ from ONE PIECE FILM RED）.mp3
+21:Ado/【Ado】unravel 歌いました.mp3
+22:Ado/【Ado】Value.mp3
+23:Ado/【Ado】Villain Utattemita (원곡：Stella Jang).mp3
+24:Ado/【Ado】アクシデントコーディネイター 歌いました.mp3
+25:Ado/【Ado】アクシデントコーディネイター 歌いました【Re】.mp3
+26:Ado/【Ado】アタシは問題作.mp3
+27:Ado/【Ado】アダムとイブになれたら 歌いました.mp3
+28:Ado/【Ado】アディショナルメモリー 歌いました.mp3
+29:Ado/【Ado】アンチシステム’s 歌いました.mp3
+30:Ado/【Ado】いばら.mp3
+31:Ado/【Ado】インタビュア 歌いました.mp3
+32:Ado/【Ado】ウタカタララバイ（ウタ from ONE PIECE FILM RED）.mp3
+33:Ado/【Ado】うっせぇわ.mp3
+34:Ado/【Ado】うみなおし 歌いました.mp3
+35:Ado/【Ado】エゴロック 歌いました.mp3
+36:Ado/【Ado】エゴロック(long ver.)　歌いました.mp3
+37:Ado/【Ado】エルフ.mp3
+38:Ado/【Ado】エンゼルシーク.mp3
+39:Ado/【Ado】オールナイトレディオ パッタイ Ver..mp3
+40:Ado/【Ado】オールナイトレディオ.mp3
+41:Ado/【Ado】キライ・キライ・ジガヒダイ！ 歌いました.mp3
+42:Ado/【Ado】ギラギラ.mp3
+43:Ado/【Ado】きらきら星.mp3
+44:Ado/【Ado】クラクラ.mp3
+45:Ado/【Ado】ザネリ 歌いました.mp3
+46:Ado/【Ado】シザーハンズ 歌いました.mp3
+47:Ado/【Ado】シュガーバイン 歌いました.mp3
+48:Ado/【Ado】ショコラカタブラ.mp3
+49:Ado/【Ado】ダーリンダンス 歌いました.mp3
+50:Ado/【Ado】とても素敵な六月でした 歌いました.mp3
+51:Ado/【Ado】ドメスティックでバイオレンス.mp3
+52:Ado/【Ado】ハングリーニコル歌いました.mp3
+53:Ado/【Ado】ヒステリックナイトガール 歌いました.mp3
+54:Ado/【Ado】ヒバナ 歌いました.mp3
+55:Ado/【Ado】ビバリウム.mp3
+56:Ado/【Ado】ブラック★ロックシューター 歌いました.mp3
+57:Ado/【Ado】ブリキノダンス 歌いました.mp3
+58:Ado/【Ado】プリキュア5、スマイル go go! 歌いました.mp3
+59:Ado/【Ado】ボッカデラベリタ 歌いました.mp3
+60:Ado/【Ado】マザーランド.mp3
+61:Ado/【Ado】メーベル 歌いました.mp3
+62:Ado/【Ado】メーベル 歌いました【ワンコーラス】.mp3
+63:Ado/【Ado】メルティランドナイトメア 歌いました.mp3
+64:Ado/【Ado】モンストロ.mp3
+65:Ado/【Ado】よくばり 歌いました.mp3
+66:Ado/【Ado】ラッキー・ブルート.mp3
+67:Ado/【Ado】ラブ＆デストロイ 歌いました.mp3
+68:Ado/【Ado】ラブカ？ 歌いました.mp3
+69:Ado/【Ado】リベリオン.mp3
+70:Ado/【Ado】ルル (RuLe).mp3
+71:Ado/【Ado】レディメイド.mp3
+72:Ado/【Ado】ロックスター.mp3
+73:Ado/【Ado】わたしに花束.mp3
+74:Ado/【Ado】世界のつづき（ウタ from ONE PIECE FILM RED）.mp3
+75:Ado/【Ado】乙女解剖 歌いました.mp3
+76:Ado/【Ado】会いたくて.mp3
+77:Ado/【Ado】初夏 (Shoka).mp3
+78:Ado/【Ado】勇気のReason 歌いました.mp3
+79:Ado/【Ado】十戒（1984）（Lyric Video）.mp3
+80:Ado/【Ado】半色の感傷 歌いました.mp3
+81:Ado/【Ado】向日葵.mp3
+82:Ado/【Ado】君の体温 歌いました.mp3
+83:Ado/【Ado】唱 Another Story.mp3
+84:Ado/【Ado】嗚呼、素晴らしきニャン生 歌いました.mp3
+85:Ado/【Ado】夏夜のマジック 歌いました.mp3
+86:Ado/【Ado】夜のくじら 歌いました.mp3
+87:Ado/【Ado】夜のピエロ.mp3
+88:Ado/【Ado】好きでいて.mp3
+89:Ado/【Ado】妄想感傷代償連盟 歌いました【ワンコーラス】.mp3
+90:Ado/【Ado】彗星列車のベルが鳴る 歌いました.mp3
+91:Ado/【Ado】従属ふりったー　歌いました.mp3
+92:Ado/【Ado】心という名の不可解.mp3
+93:Ado/【Ado】怪盗・窪園チヨコは絶対ミスらない　歌いました.mp3
+94:Ado/【Ado】恋は戦争 歌いました.mp3
+95:Ado/【Ado】恋愛裁判 歌いました.mp3
+96:Ado/【Ado】抜け空.mp3
+97:Ado/【Ado】新人類 歌いました.mp3
+98:Ado/【Ado】新時代 (ウタ from ONE PIECE FILM RED).mp3
+99:Ado/【Ado】春に舞う.mp3
+100:Ado/【Ado】橙ゲノム 歌いました.mp3
+101:Ado/【Ado】永遠のあくる日.mp3
+102:Ado/【Ado】渇愛論II 歌いました.mp3
+103:Ado/【Ado】私は最強 (ウタ from ONE PIECE FILM RED).mp3
+104:Ado/【Ado】綺羅（Official Audio）.mp3
+105:Ado/【Ado】罪と罰 歌いました.mp3
+106:Ado/【Ado】脳内革命ガール 歌いました.mp3
+107:Ado/【Ado】脳内革命ガール 歌いました【ワンコーラス】.mp3
+108:Ado/【Ado】花火.mp3
+109:Ado/【Ado】行方知れず.mp3
+110:Ado/【Ado】踊.mp3
+111:Ado/【Ado】逆光（ウタ from ONE PIECE FILM RED）.mp3
+112:Ado/【Ado】過学習.mp3
+113:Ado/【Ado】阿修羅ちゃん.mp3
+114:Ado/【Ado】風と私の物語.mp3
+115:Ado/【Ado】風のゆくえ（ウタ from ONE PIECE FILM RED）.mp3
+116:Ado/【Adoと初音ミク】カルチャ 歌いました #MikuChallenge.mp3
+117:Ado/【Adoと初音ミク】東京は夜 歌いました.mp3
+118:Ado/【Adoと吉乃と弱酸性】Ready Steady 歌いました.mp3
+119:Ado/【オリジナルMV】bin 歌いました【Ado】.mp3
+120:Ado/【オリジナルMV】ラストリゾート 歌いました【Ado】.mp3
+121:Ado/【オリジナルMV】邪魔 歌いました【Ado】.mp3
+122:Ado/【オリジナルMV】馬鹿 歌いました【Ado】.mp3
+123:Ado/【オリジナル曲】和解Say Yo!【すいぽてっ！とAdo】.mp3
+124:Ado/【初オリジナル曲】イモでもいいじゃん⧸すいぽてっ！【新人歌い手グループ】.mp3
+125:Ado/【合唱】Mr.シャーデンフロイデ 歌いました【AdoとGooDrugと黒うさぎと弱酸性と吉乃】.mp3
+126:Ado/【新人歌い手グループ】ビバハピ歌いました【すいぽてっ！】.mp3
+127:Ado/ADO ⧸⧸ Odoru Ponpokorin ⧸⧸ Chibi Maruko-chan.mp3
+128:Ado/蝸旋 ⧸ jon-YAKITORY feat. Ado (Offcial Video) - Rasen ⧸ jon-YAKITORY feat. Ado.mp3
+129:Ado/Kawaikute Gomen.mp3
+130:Ado/AiAiA.mp3
+131:Ado/DND.mp3
+132:Eve/AIYOU - Eve Music Video.mp3
+133:Eve/Bubble feat.Uta - MV Eve.mp3
+134:Eve/feel like  - Eve Music Video.mp3
+135:Eve/Glorious Day feat. 初音ミク - Eve Music Video.mp3
+136:Eve/lazy cat  – Eve MV.mp3
+137:Eve/LEO - Eve MV.mp3
+138:Eve/pray - Eve MV.mp3
+139:Eve/sister - Eve MV.mp3
+140:Eve/Underdog - Eve Music Video.mp3
+141:Eve/YOKU - Eve MV.mp3
+142:Eve/アイオライト (Iolite) - Eve Music Video.mp3
+143:Eve/アヴァン(Avant) - Eve MV.mp3
+144:Eve/アウトサイダー - Eve MV.mp3
+145:Eve/あの娘シークレット - Eve MV.mp3
+146:Eve/あびすいんざわーるど（Abyss in the world） - Eve Music Video.mp3
+147:Eve/アンビバレント - Eve MV.mp3
+148:Eve/いのちの食べ方 - Eve MV.mp3
+149:Eve/インソムニア (INSOMNIA) – Eve Music Video.mp3
+150:Eve/お気に召すまま - Eve MV.mp3
+151:Eve/ゴーストアベニュー(Ghost Avenue) - Eve Music Video.mp3
+152:Eve/さよならエンドロール – Eve MV.mp3
+153:Eve/スイートメモリー - Eve  ×「小市民シリーズ」 MV.mp3
+154:Eve/デーモンダンストーキョー - Eve   MV.mp3
+155:Eve/ティーンエイジブルー (Teenage Blue) – Eve 「アオのハコ」SPECIAL MV.mp3
+156:Eve/ティーンエイジブルー (Teenage Blue) – Eve Music Video.mp3
+157:Eve/トーキョーゲットー - Eve MV.mp3
+158:Eve/ドラマツルギー - Eve  MV.mp3
+159:Eve/ないものねだり ⧸ KANA-BOON (cover) - Eve.mp3
+160:Eve/ナンセンス文学 - Eve  MV.mp3
+161:Eve/バウムクーヘンエンド - Eve MV.mp3
+162:Eve/ファイトソング (Fight Song) - Eve Music Video.mp3
+163:Eve/フラットウッズのモンスターみたいに – Eve × Deu MV.mp3
+164:Eve/ぼくらの (Bokurano) - Eve Music Video.mp3
+165:Eve/ラストダンス - Eve MV.mp3
+166:Eve/レーゾンデートル - Eve MV.mp3
+167:Eve/僕らまだアンダーグラウンド - Eve MV.mp3
+168:Eve/冒険録 (Adventure Log) - Eve Music Video.mp3
+169:Eve/君に世界 - Eve MV.mp3
+170:Eve/夜は仄か - Eve MV.mp3
+171:Eve/平行線 - Eve × suis from ヨルシカ MV.mp3
+172:Eve/廻廻奇譚 - Eve MV.mp3
+173:Eve/心予報 - Eve MV.mp3
+174:Eve/心海 - Eve MV.mp3
+175:Eve/暴徒 - Eve MV.mp3
+176:Eve/白銀 - Eve MV.mp3
+177:Eve/白雪 (White Snow) - Eve MV.mp3
+178:Eve/約束 - Eve MV.mp3
+179:Eve/群青讃歌 - Eve MV.mp3
+180:Eve/花嵐 - Eve MV.mp3
+181:Eve/蒼のワルツ - Eve MV.mp3
+182:Eve/藍才 - Eve MV.mp3
+183:Eve/虎狼来 (Kororon) - Eve Music Video.mp3
+184:Eve/退屈を再演しないで - Eve MV.mp3
+185:Eve/逃避行 - Eve MV.mp3
+186:Eve/遊生夢死 - Eve MV.mp3
+187:Eve/闇夜 - Eve MV ＂Dark night＂.mp3
+188:Eve/風のアンセム feat. suis from ヨルシカ  (Wind's Anthem) - Eve Music Video.mp3
+189:Others/【Kanaria】BRAIN.mp3
+190:Others/【Kanaria】KING【セルフカバー】.mp3
+191:Others/【MV】 MYTH&ROID - Paradisus-Paradoxum(OFFICIAL).mp3
+192:Others/【original anime MV】幽霊船戦【hololive⧸宝鐘マリン】.mp3
+193:Others/【東方】Bad Apple!! ＰＶ【影絵】.mp3
+194:Others/Aimer「Zankyosanka」MUSIC VIDEO（Demon Slayer：Kimetsu no Yaiba Entertainment District Arc Theme Song）.mp3
+195:Others/asphyxia ; cö shu nie - rōmaji 愛 sub español ; tokyo ghoul ：re OP.mp3
+196:Others/BIBI - Vengeance.mp3
+197:Others/DECO＊27 - ラビットホール feat. 初音ミク.mp3
+198:Others/Fire Again ft. Ashnikko ⧸⧸ Official Music Video ⧸⧸ VALORANT Champions 2022.mp3
+199:Others/Giga - ガッチュー！ ft.Miku・Rin・Len【MV】.mp3
+200:Others/HATSUNE MIKU： COLORFUL STAGE! – At God's Mercy by rerulili 3DMV - Wonderlands x Showtime.mp3
+201:Others/If The Sun Burns Out Tonight ft. Grabbitz, Oli Sykes, Courtney LaPlante ⧸⧸ VALORANT Champions 2026.mp3
+202:Others/katharsis ; tk from ling tosite sigure - rōmaji 愛 sub español ; tokyo ghoul ：re OP 2.mp3
+203:Others/Know My Name ft. True Damage (Official Music Video) ｜ League of Legends Worlds 2026 Anthem.mp3
+204:Others/Last Shot ft. templuv & 347aidan (Official Music Video) ⧸⧸ VALORANT Champions 2025.mp3
+205:Others/Made in Abyss - Deep In Abyss (w⧸Lyrics) [OP full].mp3
+206:Others/Made in Abyss - Full Ending.mp3
+207:Others/Made in Abyss Season 2 - Opening Full『Katachi』by Riko Azuna.mp3
+208:Others/natori - Absolute Zero.mp3
+209:Others/Penthouse - 一二三［Official Music Video］.mp3
+210:Others/Soul Eater - Papermoon.mp3
+211:Others/Soul Eater - Resonance.mp3
+212:Others/Soul Eater - Strength.mp3
+213:Others/tuki.『ひゅるりらぱっぱ』Official Music Video.mp3
+214:Others/YOASOBI「アイドル」 Official Music Video.mp3
+215:Others/YOASOBI「怪物」Official Music Video　(YOASOBI - Monster).mp3
+216:Others/おばけ体験 ⧸ 重音テト.mp3
+217:Others/キング・オ・ランタン ⧸ 初音ミク・重音テト・亞北ネル.mp3
+218:Others/テトリス ⧸ 重音テトSV.mp3
+219:Others/メズマライザー ⧸ 初音ミク・重音テトSV.mp3
+220:Others/東京真中 -  ブレインロット feat. 重音テト.mp3
+221:Others/椎名もた(siinamota) - Young Girl A ⧸ 少女A.mp3
+222:Others/美波「カワキヲアメク」MV.mp3
+223:Others/BLOODY STREAM.mp3
+224:Phantom Siita/ファントムシータ『botばっか』(OFFICIAL MUSIC VIDEO).mp3
+225:Phantom Siita/ファントムシータ『HANAGATAMI』(OFFICIAL MUSIC VIDEO).mp3
+226:Phantom Siita/ファントムシータ『おともだち』（OFFICIAL MUSIC VIDEO）.mp3
+227:Phantom Siita/ファントムシータ『キミと✕✕✕✕したいだけ』（OFFICIAL MUSIC VIDEO）.mp3
+228:Phantom Siita/ファントムシータ『すき、きらい』（OFFICIAL MUSIC VIDEO）.mp3
+229:Phantom Siita/ファントムシータ『ゾクゾク』（OFFICIAL MUSIC VIDEO）.mp3
+230:Phantom Siita/ファントムシータ『そっくりさん』（OFFICIAL MUSIC VIDEO）.mp3
+231:Phantom Siita/ファントムシータ『ノア』(OFFICIAL MUSIC VIDEO).mp3
+232:Phantom Siita/ファントムシータ『ホラークイーン』(OFFICIAL MUSIC VIDEO).mp3
+233:Phantom Siita/ファントムシータ『乙女心中』(OFFICIAL MUSIC VIDEO).mp3
+234:Phantom Siita/ファントムシータ『花喰み』（OFFICIAL MUSIC VIDEO）.mp3
+235:Phantom Siita/ファントムシータ『薔薇色の月』(OFFICIAL MUSIC VIDEO).mp3
+236:Phantom Siita/ファントムシータ『魔性少女』OFFICIAL MUSIC VIDEO.mp3
+playlist_end

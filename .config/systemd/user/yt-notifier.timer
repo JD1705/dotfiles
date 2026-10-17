@@ -1,0 +1,13 @@
+[Unit]
+Description=Timer para revisar YouTube cada 15 minutos
+
+[Timer]
+# Ejecutar 1 minuto después del arranque
+OnBootSec=1min
+# Ejecutar cada 15 minutos mientras el sistema esté encendido
+OnUnitActiveSec=15min
+# Si la PC estuvo apagada a la hora de ejecutar, ejecutar al encender
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,10 @@
+[Unit]
+Description=ArRPC Discord IPC Bridge
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/npx arrpc
+Restart=always
+
+[Install]
+WantedBy=default.target

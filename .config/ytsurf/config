@@ -1,0 +1,16 @@
+#limit=5
+#audio_only=true
+#use_rofi=false
+#use_sentaku=false
+#use_tv=false
+#download_mode=false
+#history_mode=false
+#format_selection=false
+#download_dir="$HOME/Downloads"
+#history_file=="$HOME/.cache/ytsurf/history.json"
+#max_history_entries=20
+#notify=true
+#editor="nvim"
+#player="mpv --ytdl-format='bestvideo[height<=360]+bestaudio/best[height<=360]/best'"
+#debug_mode=false
+#chafa_block_mode=false

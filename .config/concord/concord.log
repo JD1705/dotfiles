@@ -1,0 +1,21 @@
+2026-05-10 13:23:32 UTC [ERROR] app: TIMING op=prime_rest_pool duration=267ms
+2026-05-12 20:14:58 UTC [ERROR] app: TIMING op=prime_rest_pool duration=444ms
+2026-05-12 21:13:21 UTC [ERROR] app: TIMING op=prime_rest_pool duration=389ms
+2026-05-14 14:43:38 UTC [ERROR] app: TIMING op=prime_rest_pool duration=526ms
+2026-05-15 16:51:51 UTC [ERROR] app: TIMING op=prime_rest_pool duration=380ms
+2026-05-15 22:09:19 UTC [ERROR] app: TIMING op=prime_rest_pool duration=373ms
+2026-05-16 22:07:09 UTC [ERROR] app: TIMING op=prime_rest_pool duration=372ms
+2026-05-17 01:23:20 UTC [ERROR] app: TIMING op=prime_rest_pool duration=434ms
+2026-05-17 12:19:54 UTC [ERROR] app: TIMING op=prime_rest_pool duration=335ms
+2026-05-17 14:48:37 UTC [ERROR] app: send message failed: Discord request failed: send message request failed: error sending request for url (https://discord.com/api/v9/channels/1162486396062289953/messages); detail=Discord request failed: send message request failed: error sending request for url (https://discord.com/api/v9/channels/1162486396062289953/messages)
+2026-05-19 00:23:40 UTC [ERROR] app: TIMING op=prime_rest_pool duration=1487ms
+2026-05-19 00:28:49 UTC [ERROR] app: TIMING op=prime_rest_pool duration=392ms
+2026-05-19 01:16:52 UTC [ERROR] app: TIMING op=prime_rest_pool duration=450ms
+2026-05-19 01:18:05 UTC [ERROR] app: TIMING op=prime_rest_pool duration=423ms
+2026-05-19 23:17:08 UTC [ERROR] app: TIMING op=prime_rest_pool duration=359ms
+2026-05-19 23:41:07 UTC [ERROR] app: TIMING op=prime_rest_pool duration=326ms
+2026-05-21 01:36:14 UTC [ERROR] preview: download image preview failed: HTTP status client error (415 Unsupported Media Type) for url (https://cdn.discordapp.com/emojis/1454426151702237320.gif)
+2026-05-21 23:58:21 UTC [ERROR] preview: download image preview failed: HTTP status client error (415 Unsupported Media Type) for url (https://cdn.discordapp.com/emojis/1454426151702237320.gif)
+2026-09-09 00:48:59 UTC [ERROR] native-stderr: Gtk-Message: 20:48:59.092: Failed to load module "appmenu-gtk-module"
+2026-09-09 00:48:59 UTC [ERROR] native-stderr: Gtk-Message: 20:48:59.791: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+2026-09-09 00:51:13 UTC [ERROR] preview: download image preview timed out

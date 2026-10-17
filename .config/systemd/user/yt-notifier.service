@@ -1,0 +1,10 @@
+[Unit]
+Description=Verificador de nuevo video de YouTube para Dunst
+After=graphical-session.target
+
+[Service]
+Type=oneshot
+# Importante: exportar las variables de la sesión gráfica para que Dunst responda
+Environment=DISPLAY=:0
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/%U/bus
+ExecStart=%h/.local/bin/yt_feed.sh
