@@ -112,8 +112,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias EWW="~/eww/target/release/eww"
-
 ytp() {
     if [ -z "$1" ]; then
         echo "Use: ytp [URL_DE_YOUTUBE]"
@@ -136,17 +134,33 @@ yt-d() {
     url=$(yt-dlp -x --audio-format mp3 --audio-quality 0 --embed-thumbnail --add-metadata -o "~/Music/%(title)s.%(ext)s" "$1")
 }
 
-alias ytsurf="~/.local/bin/ytsurf"
-alias dwarffortress="~/Downloads/Dwarf\ Fortress/run_df.sh"
-alias connect-termux="ssh u0_a389@192.168.1.5 -p 8022"
-alias zsh-source="source ~/.zshrc"
-alias pokemmo="MESA_LOADER_DRIVER_OVERRIDE=iris flatpak run com.pokemmo.PokeMMO"
-alias kanarenshu="~/kanarenshu/kanarenshu"
-alias zigoku="~/Downloads/zigoku-v0.2.1-x86_64-linux-musl/zigoku"
-alias clear="pyroclear"
-alias aiderg="aider --model gemini/gemini-3.8-flash"
+websearch() {
+    local browser="elinks"
 
-export GEMINI_API_KEY="AQ.Ab8RN6LohUB0o0fkIREDZHGHV7zdhXJUVgh95smJO9AUico0Ow"
+    if [[ "$1" == "elinks" || "$1" == "lynx" || "$1" == "w3m" ]]; then
+        browser="$1"
+        shift
+    fi
+
+    if (( $# == 0 )); then
+        echo "Usage: websearch [elinks|lynx|w3m] <query>"
+        return 1
+    fi
+
+    local query
+    query=$(python3 -c 'import sys, urllib.parse; print(urllib.parse.quote_plus(" ".join(sys.argv[1:])))' "$@")
+
+    "$browser" "https://html.duckduckgo.com/html/?q=$query"
+}
+
+alias fd="fdfind"
+alias ytsurf="~/.local/bin/ytsurf"
+alias dwarffortress="~/Downloads/Dwarf\ Fortress/run_df"
+alias zsh-source="source ~/.zshrc"
+alias clear="pyroclear"
+alias bat="batcat"
+alias update-concord="curl --proto '=https' --tlsv1.2 -LsSf https://github.com/chojs23/concord/releases/latest/download/concord-installer.sh | sh"
+
 export NVM_DIR="$HOME/.nvm"
 export QT_QPA_PLATFORMTHEME=qt5ct
 export QT_STYLE_OVERRIDE=kvantum
@@ -154,9 +168,7 @@ export QT_STYLE_OVERRIDE=kvantum
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 eval "$(starship init zsh)"
 
-# opencode
-export PATH=/home/jd1705/.opencode/bin:$PATH
-export GOROOT=/usr/local/go
+# export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 export DRIFT_TIMEOUT=300
